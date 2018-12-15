@@ -1,0 +1,23 @@
+{
+  "name": "doger-twitter-for-dogs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "@material-ui/core": "^3.6.2",
+    "fontfaceobserver": "^2.1.0",
+    "next": "^7.0.2",
+    "react": "^16.6.3",
+    "react-dom": "^16.6.3",
+    "typeface-roboto": "0.0.54"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "dev": "next",
+    "build": "next build",
+    "start": "next start -p 8000"
+  },
+  "keywords": [],
+  "author": "Duccio Breschi",
+  "license": "MIT"
+}

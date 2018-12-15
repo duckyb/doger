@@ -1,0 +1,22 @@
+{
+  "name": "doger-api",
+  "version": "1.0.0",
+  "description": "an api for doger",
+  "main": "index.js",
+  "scripts": {
+    "now-start": "node .",
+    "start": "nodemon ."
+  },
+  "author": "Duccio Breschi",
+  "license": "MIT",
+  "dependencies": {
+    "bad-words": "^3.0.0",
+    "cors": "^2.8.5",
+    "express": "^4.16.4",
+    "express-rate-limit": "^3.3.2",
+    "monk": "^6.0.6"
+  },
+  "devDependencies": {
+    "nodemon": "^1.18.9"
+  }
+}
