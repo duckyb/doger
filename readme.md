@@ -1,3 +1,7 @@
+<header>
+  <style>* {text-align: center}</style>
+</header>
+
 ![splash image](./readme_static/splash.png)
 
 ## Tecnologies Used:
